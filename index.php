@@ -7,7 +7,7 @@
 </head>
 <body>
 <?php>
-echo"<h3>welcame to this page </h3>" 
+echo"<h3>welcame to this page BTECH </h3>" 
 </body>
 </html>
 
